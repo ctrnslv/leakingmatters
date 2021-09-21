@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/leakingmatters/static/css/main.363c2a7f.chunk.css",
-    "main.js": "/leakingmatters/static/js/main.da169db3.chunk.js",
-    "main.js.map": "/leakingmatters/static/js/main.da169db3.chunk.js.map",
+    "main.css": "/leakingmatters/static/css/main.a3ee091d.chunk.css",
+    "main.js": "/leakingmatters/static/js/main.7f43e401.chunk.js",
+    "main.js.map": "/leakingmatters/static/js/main.7f43e401.chunk.js.map",
     "runtime-main.js": "/leakingmatters/static/js/runtime-main.6ba8223a.js",
     "runtime-main.js.map": "/leakingmatters/static/js/runtime-main.6ba8223a.js.map",
     "static/css/2.2e2c6cd5.chunk.css": "/leakingmatters/static/css/2.2e2c6cd5.chunk.css",
-    "static/js/2.b2b7c78b.chunk.js": "/leakingmatters/static/js/2.b2b7c78b.chunk.js",
-    "static/js/2.b2b7c78b.chunk.js.map": "/leakingmatters/static/js/2.b2b7c78b.chunk.js.map",
+    "static/js/2.8e4b5e3d.chunk.js": "/leakingmatters/static/js/2.8e4b5e3d.chunk.js",
+    "static/js/2.8e4b5e3d.chunk.js.map": "/leakingmatters/static/js/2.8e4b5e3d.chunk.js.map",
     "static/js/3.71c72289.chunk.js": "/leakingmatters/static/js/3.71c72289.chunk.js",
     "static/js/3.71c72289.chunk.js.map": "/leakingmatters/static/js/3.71c72289.chunk.js.map",
     "index.html": "/leakingmatters/index.html",
     "static/css/2.2e2c6cd5.chunk.css.map": "/leakingmatters/static/css/2.2e2c6cd5.chunk.css.map",
-    "static/css/main.363c2a7f.chunk.css.map": "/leakingmatters/static/css/main.363c2a7f.chunk.css.map",
-    "static/js/2.b2b7c78b.chunk.js.LICENSE.txt": "/leakingmatters/static/js/2.b2b7c78b.chunk.js.LICENSE.txt",
+    "static/css/main.a3ee091d.chunk.css.map": "/leakingmatters/static/css/main.a3ee091d.chunk.css.map",
+    "static/js/2.8e4b5e3d.chunk.js.LICENSE.txt": "/leakingmatters/static/js/2.8e4b5e3d.chunk.js.LICENSE.txt",
     "static/js/pdf.worker.entry.eb2f0933.worker.js": "/leakingmatters/static/js/pdf.worker.entry.eb2f0933.worker.js",
     "static/js/pdf.worker.entry.eb2f0933.worker.js.LICENSE.txt": "/leakingmatters/static/js/pdf.worker.entry.eb2f0933.worker.js.LICENSE.txt",
     "static/js/pdf.worker.entry.eb2f0933.worker.js.map": "/leakingmatters/static/js/pdf.worker.entry.eb2f0933.worker.js.map",
@@ -30,6 +30,7 @@
     "static/media/RdP_24.66_17_Emd_0-signed.292444e7.pdf": "/leakingmatters/static/media/RdP_24.66_17_Emd_0-signed.292444e7.pdf",
     "static/media/RdP_31.66_17_Emd_0-signed.9dae5fae.pdf": "/leakingmatters/static/media/RdP_31.66_17_Emd_0-signed.9dae5fae.pdf",
     "static/media/RdP_32.66_17_Emd_0-signed.04f2160d.pdf": "/leakingmatters/static/media/RdP_32.66_17_Emd_0-signed.04f2160d.pdf",
+    "static/media/App.css": "/leakingmatters/static/media/WP_000585.7fe3daa4.jpg",
     "static/media/[2021]-Petrolgate-Sentenza-Integrale-dati-oscurati.8813d9f8.pdf": "/leakingmatters/static/media/[2021]-Petrolgate-Sentenza-Integrale-dati-oscurati.8813d9f8.pdf",
     "static/media/analisi-sorgente-Casuriedd-1-maggio-2019.e10333f8.pdf": "/leakingmatters/static/media/analisi-sorgente-Casuriedd-1-maggio-2019.e10333f8.pdf",
     "static/media/essd-12-519-2020.ff6305e6.pdf": "/leakingmatters/static/media/essd-12-519-2020.ff6305e6.pdf",
@@ -41,8 +42,8 @@
   "entrypoints": [
     "static/js/runtime-main.6ba8223a.js",
     "static/css/2.2e2c6cd5.chunk.css",
-    "static/js/2.b2b7c78b.chunk.js",
-    "static/css/main.363c2a7f.chunk.css",
-    "static/js/main.da169db3.chunk.js"
+    "static/js/2.8e4b5e3d.chunk.js",
+    "static/css/main.a3ee091d.chunk.css",
+    "static/js/main.7f43e401.chunk.js"
   ]
 }
